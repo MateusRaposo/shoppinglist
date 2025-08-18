@@ -32,7 +32,6 @@ while True:
             print("Sua lista ja esta vazia!")
         else:
             compras.clear()
-            print("Sua lista apagada completamente.")
+            print("Sua lista foi apagada completamente.")
     else:
-        print("Digite i, a ou l.")
-
+        print("Digite i, a, l ou t.")
