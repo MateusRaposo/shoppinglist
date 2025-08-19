@@ -10,5 +10,5 @@ Este projeto permite adicionar, remover e listar itens de uma lista fielmente or
 - Visualizar todos os itens da lista
 - Limpar completamente a lista
 
-* OBSERVAÇÕES
+* OBSERVAÇÕES:
 Este projeto foi desenvolvido apenas para fins de estudo, visando a prática da linguagem Python e controle de versão com Git.
